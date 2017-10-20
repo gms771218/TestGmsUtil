@@ -1,0 +1,3 @@
+[submodule "GmsUtil"]
+	path = GmsUtil
+	url = https://github.com/gms771218/GmsUtil.git
